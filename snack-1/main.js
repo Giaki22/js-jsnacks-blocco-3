@@ -7,7 +7,7 @@ do {
     } while (isNaN(n[i]));
         s += n[i];
         i++;
-    } while (s<50);
+} while (s<50);
 if (s>50){
     n.pop();
 }
