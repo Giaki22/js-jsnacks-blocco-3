@@ -8,4 +8,7 @@ do {
         s += n[i];
         i++;
     } while (s<50);
+if (s>50){
+    n.pop();
+}
 console.log(n);
