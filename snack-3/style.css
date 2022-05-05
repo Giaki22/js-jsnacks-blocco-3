@@ -1,0 +1,14 @@
+.container{
+    margin:0;
+    max-width: 1200px;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
+/* STYLE */
+#red{
+    color: red;
+}
+#green{
+    color: green;
+}
